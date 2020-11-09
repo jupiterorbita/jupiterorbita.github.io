@@ -6,4 +6,4 @@
 ###<https://jupiterorbita.github.io>
 
 
-by John Misirlakis
+by John
